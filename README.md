@@ -1,1 +1,1 @@
-# fastcampus-project-borad
+# project-borad
