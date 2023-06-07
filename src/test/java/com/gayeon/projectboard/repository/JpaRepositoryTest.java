@@ -40,7 +40,7 @@ class JpaRepositoryTest {
     }
     @DisplayName("insert 테스트")
     @Test
-    void givenTestData_whenInsering_thenWorksFine(){
+    void givenTestData_whenInserting_thenWorksFine(){
         // Given
         long previousCount = articleRepository.count();
 
